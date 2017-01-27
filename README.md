@@ -19,8 +19,10 @@ Usage -
         will save in the current directory if no path is given
         will save in the current directory if given path does not exist
 
-Requires - requests >= 1.0.4
-           beautifulsoup >= 4.0.0
+Requires - 
+    
+    requests >= 1.0.4
+    beautifulsoup >= 4.0.0
 
 Download and install using
 
